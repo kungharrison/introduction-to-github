@@ -28,7 +28,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 - **Prerequisites**: We assume you've completed [Hello GitHub Actions](https://github.com/skills/hello-github-actions) first.
 - **How long**: This course is five steps long and takes less than two hours to complete.
 
-## How to start this course
+## How to start this course 
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
